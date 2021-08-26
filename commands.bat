@@ -1,1 +1,1 @@
-cd amit-template1 && npm run build && cd .. && git add . && git commit -m "few css errors resolved" && git push origin main
+cd amit-template1 && npm run build && cd .. && git add . && git commit -m "hamburger icon not aligned in mobile, but responsive on chrome browser" && git push origin main

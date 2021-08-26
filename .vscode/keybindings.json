@@ -1,0 +1,8 @@
+{
+    "key": "ctrl+alt+m",
+    "command": "editor.action.insertSnippet",
+    "when": "editorTextFocus",
+    "args": {
+        "snippet": "<${TM_SELECTED_TEXT} styleName='$1'>$0<\/${TM_SELECTED_TEXT}>"
+    }
+}

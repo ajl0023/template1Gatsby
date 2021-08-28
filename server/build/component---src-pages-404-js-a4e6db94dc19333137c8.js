@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkamit_template1=self.webpackChunkamit_template1||[]).push([[883],{9616:function(e,t,a){a.r(t);var n=a(7294);t.default=function(){return n.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-404-js-a4e6db94dc19333137c8.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-a4e6db94dc19333137c8.js","mappings":"0IAMA,UAJgB,WACd,OAAO","sources":["webpack://amit-template1/./src/pages/404.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst page404 = () => {\r\n  return <div></div>;\r\n};\r\n\r\nexport default page404;\r\n"],"names":[],"sourceRoot":""}
